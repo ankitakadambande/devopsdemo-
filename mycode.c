@@ -18,3 +18,4 @@ int main() {
 	Function3();
 	return 0;
 }
+Function4(){printf("This is function4");}
